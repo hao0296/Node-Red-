@@ -1,0 +1,1 @@
+{¡§appId¡¨¡G¡§289794656077431¡¨¡A¡§appSecret¡¨¡G¡§9shpkDo6X7sN4aAl7liTsKQ9SJUp7JZo¡¨¡A¡§datapoints¡¨¡G[{¡§dataChnId¡¨¡G¡§LEDControl¡¨¡A¡§values¡¨¡G{¡§value¡¨¡G¡§1¡¨}}]
